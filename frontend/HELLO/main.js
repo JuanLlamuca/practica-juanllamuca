@@ -24,3 +24,5 @@ function getPingFromWebServices() {
       message.innerHTML = `No se puede conectar al servidor ${url}`;
     });
 }
+
+/* */
